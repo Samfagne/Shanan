@@ -23,6 +23,7 @@ public class Dopdown23 {
 	prime.selectByValue("5");
 	driver.findElement(By.xpath("//*[@id=\"register-page\"]/body/div[7]/section/div/div/div/div/div/div[2]/form/div/div[1]/div[2]/div[8]/div/label")).click();
 	driver.findElement(By.id("register-button")).click();
+		System.out.println(comments from github from TM);
 	 
 	 
 	
